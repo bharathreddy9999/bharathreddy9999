@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header Image](https://github.com/bharathreddy9999/bharathreddy9999/blob/main/Screenshot%20(62).png
+![Header Image](https://github.com/bharathreddy9999/bharathreddy9999/blob/main/Screenshot%20(62).png)
 
 ## About Me
 
@@ -35,7 +35,7 @@ Developing a secure, decentralized voting system based on the Ethereum blockchai
 ---
 
 ### Weather Forecasting Application
-![Weather Forecast](https://github.com/bharathreddy9999/bharathreddy9999/blob/main/Screenshot%20(61).png
+![Weather Forecast](https://github.com/bharathreddy9999/bharathreddy9999/blob/main/Screenshot%20(61).png)
 
 An advanced weather forecasting web app built with Streamlit. Leverages OpenWeather API to provide real-time weather updates and forecasts.
 
