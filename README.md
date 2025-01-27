@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header Image](https://bharathreddy.com)
+![Header Image](https://github.com/bharathreddy9999/bharathreddy9999/blob/main/Screenshot%20(62).png
 
 ## About Me
 
@@ -29,21 +29,20 @@ Hello! I'm Bharath Kumar Pippalla, a passionate Computer Science and Engineering
 ## Projects
 
 ### Blockchain-based Voting System (In Progress)
-![Voting System]https://(bharathreddy9999.github.io/Portfolio/assets/project-1.png)
-
+![Voting System](https://github.com/bharathreddy9999/bharathreddy9999/blob/main/Screenshot%20(39).png)
 Developing a secure, decentralized voting system based on the Ethereum blockchain and smart contracts for transparency, tamper-proof results, and voter anonymity.
 
 ---
 
 ### Weather Forecasting Application
-![Weather Forecast](https://bharathreddy9999.github.io/Portfolio/assets/project-2.png)
+![Weather Forecast](https://github.com/bharathreddy9999/bharathreddy9999/blob/main/Screenshot%20(61).png
 
 An advanced weather forecasting web app built with Streamlit. Leverages OpenWeather API to provide real-time weather updates and forecasts.
 
 ---
 
 ### Event Management Website
-![Event Management](https://your-project-image-url.com)
+![Event Management](https://github.com/bharathreddy9999/bharathreddy9999/blob/main/Screenshot%20(60).png)
 
 Designed an intuitive web portal using React.js, Tailwind CSS, and MongoDB to streamline college event management procedures for students and coordinators.
 
