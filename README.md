@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header Image](https://your-image-url.com)
+![Header Image](https://bharathreddy.com)
 
 ## About Me
 
@@ -29,14 +29,14 @@ Hello! I'm Bharath Kumar Pippalla, a passionate Computer Science and Engineering
 ## Projects
 
 ### Blockchain-based Voting System (In Progress)
-![Voting System](https://your-project-image-url.com)
+![Voting System]https://(bharathreddy9999.github.io/Portfolio/assets/project-1.png)
 
 Developing a secure, decentralized voting system based on the Ethereum blockchain and smart contracts for transparency, tamper-proof results, and voter anonymity.
 
 ---
 
 ### Weather Forecasting Application
-![Weather Forecast](https://your-project-image-url.com)
+![Weather Forecast](https://bharathreddy9999.github.io/Portfolio/assets/project-2.png)
 
 An advanced weather forecasting web app built with Streamlit. Leverages OpenWeather API to provide real-time weather updates and forecasts.
 
